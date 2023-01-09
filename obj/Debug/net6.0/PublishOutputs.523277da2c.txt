@@ -1,0 +1,13 @@
+D:\K14\2022-2023\dot net\project\ClientsManager\ClientsManager\bin\Debug\net6.0\publish\ClientsManager.exe
+D:\K14\2022-2023\dot net\project\ClientsManager\ClientsManager\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\K14\2022-2023\dot net\project\ClientsManager\ClientsManager\bin\Debug\net6.0\publish\appsettings.json
+D:\K14\2022-2023\dot net\project\ClientsManager\ClientsManager\bin\Debug\net6.0\publish\ClientsManager.dll
+D:\K14\2022-2023\dot net\project\ClientsManager\ClientsManager\bin\Debug\net6.0\publish\ClientsManager.deps.json
+D:\K14\2022-2023\dot net\project\ClientsManager\ClientsManager\bin\Debug\net6.0\publish\ClientsManager.runtimeconfig.json
+D:\K14\2022-2023\dot net\project\ClientsManager\ClientsManager\bin\Debug\net6.0\publish\ClientsManager.pdb
+D:\K14\2022-2023\dot net\project\ClientsManager\ClientsManager\bin\Debug\net6.0\publish\System.Data.SqlClient.dll
+D:\K14\2022-2023\dot net\project\ClientsManager\ClientsManager\bin\Debug\net6.0\publish\runtimes\win-arm64\native\sni.dll
+D:\K14\2022-2023\dot net\project\ClientsManager\ClientsManager\bin\Debug\net6.0\publish\runtimes\win-x64\native\sni.dll
+D:\K14\2022-2023\dot net\project\ClientsManager\ClientsManager\bin\Debug\net6.0\publish\runtimes\win-x86\native\sni.dll
+D:\K14\2022-2023\dot net\project\ClientsManager\ClientsManager\bin\Debug\net6.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\K14\2022-2023\dot net\project\ClientsManager\ClientsManager\bin\Debug\net6.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
